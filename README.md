@@ -2,9 +2,9 @@
 <h2 align="center"> WELCOME 👨‍💻 </h2>
 Xin chào/Holla/Konichiwa <br />
 I am <b>Thuyen</b> , you can call me "Reif" Le <br />
-Just the nerd guy with having passion for program development , especially mobile app and classic games dev <br />
+Just the nerd guy with having passion for programming development , especially mobile app and classic mobile game <br />
 Currently the student from Ha Noi University of National Resources Enviroment  🖥️ <br />
-Reside at Bac Tu Liem District , Ha Noi , Viet Nam<br />
+Reside at Cau Giay , Ha Noi , Viet Nam<br />
 <br />
 Contact me for new projects 📨, Feel free for collaborating with me ^^
 <br/><br/> 
@@ -33,13 +33,13 @@ Contact me for new projects 📨, Feel free for collaborating with me ^^
     <td style="border: none;">
       <ul>
         <li>
-          Currently the 3rd IT student
+          Currently the 4th IT student
         </li>
         <li>
           🤝 I’m looking for any guys who could be collaborator with me in much more projects
         </li>
         <li>
-          🌱 I’m currently learningh js & nodeJs 
+          🌱 I’m currently learning Javascript with relative framework.
         </li>
         <li>
           👨🏻‍💻 Most of my projects are available on [Github](https://github.com/thuyensn2003?tab=repositories)
@@ -50,10 +50,10 @@ Contact me for new projects 📨, Feel free for collaborating with me ^^
         <li>
           📫 Feel free to contact me on ......
         <li>
-          🎷 When I am free, I like to play esport games such as Counter Strike .
+          🎷 
         </li>
         <li>
-          📝 DM Me on Telegram : .............
+          📝 DM Me on Telegram : @chickenhobby
         </li>
     </td>
     <td style="border: none;">
